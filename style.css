@@ -1,0 +1,12 @@
+.container{
+    font-size: 30px;
+    color:rebeccapurple;
+    float: inline-start;
+    align-self: auto;
+    animation: normal;
+    align-content: flex-start;
+    vertical-align: bottom;
+    height: 100px;
+    width: 100%;
+
+}
